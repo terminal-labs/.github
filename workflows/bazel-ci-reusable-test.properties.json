@@ -1,0 +1,14 @@
+{
+    "name": "Terminal Labs Bazel-C++ Workflow",
+    "description": "Terminal Labs C++ Compiler / Build Tool Test",
+    "iconName": "svg_placeholder_icon",
+    "categories": [
+        "C++",
+        "Bazel",
+        "Python"
+    ],
+    "filePatterns": [
+        "WORKSPACE",
+        "BUILD"
+    ]
+}
