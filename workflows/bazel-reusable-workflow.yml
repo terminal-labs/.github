@@ -1,4 +1,4 @@
-name: Bazel workflow template
+name: Bazel reusable workflow
 
 on:
   workflow_call:
